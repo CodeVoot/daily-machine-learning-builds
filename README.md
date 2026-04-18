@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Learning Repository
+# Machine Learning Learning Repository
 
 This repository documents my journey of learning **Machine Learning** through the CampusX course. It contains my notes, implementations, experiments, and projects as I progress from fundamentals to more advanced concepts.
 
