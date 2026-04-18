@@ -4,7 +4,7 @@ This repository documents my journey of learning **Machine Learning** through th
 
 ---
 
-## 📚 About
+## About
 
 This repo is a structured collection of everything I’m learning in ML, including:
 
@@ -17,7 +17,7 @@ The focus is on **learning by doing**, not just theory.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 * Build a strong foundation in Machine Learning
 * Implement algorithms from scratch
@@ -27,7 +27,7 @@ The focus is on **learning by doing**, not just theory.
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 * Data Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -43,7 +43,7 @@ The focus is on **learning by doing**, not just theory.
 * Introduction to Unsupervised Learning
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python
 * NumPy
@@ -54,12 +54,12 @@ The focus is on **learning by doing**, not just theory.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/CodeVoot/daily-machine-learning-builds.git
    ```
 
 2. Navigate to the folder:
@@ -89,7 +89,7 @@ The focus is on **learning by doing**, not just theory.
 
 ---
 
-## 📈 Progress Tracker
+##  Progress Tracker
 
 * [ ] Python & Libraries Basics
 * [ ] Data Analysis & Visualization
@@ -101,14 +101,14 @@ The focus is on **learning by doing**, not just theory.
 
 ---
 
-## 📝 Notes
+##  Notes
 
 This repository is part of my personal learning journey.
 Content may evolve as my understanding improves.
 
 ---
 
-## 🔮 Future Plans
+##  Future Plans
 
 * Add more real-world datasets
 * Optimize models and pipelines
@@ -117,7 +117,7 @@ Content may evolve as my understanding improves.
 
 ---
 
-## 📬 Connect
+## Connect
 
 Feel free to explore, fork, or suggest improvements!
 
